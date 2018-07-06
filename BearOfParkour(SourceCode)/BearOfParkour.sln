@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BearOfParkour", "BearOfParkour.csproj", "{599CDAE0-52B2-3F2E-7A81-672A13D636F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BearOfParkour.Editor", "BearOfParkour.Editor.csproj", "{3A425F6E-E205-23DC-8977-0A7A86EA3417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{599CDAE0-52B2-3F2E-7A81-672A13D636F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599CDAE0-52B2-3F2E-7A81-672A13D636F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599CDAE0-52B2-3F2E-7A81-672A13D636F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599CDAE0-52B2-3F2E-7A81-672A13D636F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A425F6E-E205-23DC-8977-0A7A86EA3417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A425F6E-E205-23DC-8977-0A7A86EA3417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A425F6E-E205-23DC-8977-0A7A86EA3417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A425F6E-E205-23DC-8977-0A7A86EA3417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
